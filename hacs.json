@@ -1,8 +1,8 @@
 {
     "name": "HACS Vikunja Integration",
-    "filename": "hacs_vikunja_integration.zip",
     "hide_default_branch": true,
-    "homeassistant": "2024.1.5",
+    "homeassistant": "2023.11",
     "render_readme": true,
-    "zip_release": true
+    "zip_release": true,
+    "filename": "hacs_vikunja_integration.zip"
 }
